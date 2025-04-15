@@ -96,7 +96,7 @@ The dataset used for this analysis is available on **Kaggle**. You can access th
 ## 📁 Repository Structure
 
 - `UberDataAnalysis.ipynb`: Jupyter Notebook containing the data analysis, visualizations, and insights.
-- `requirements.txt`: List of required Python libraries.
+
 - `LICENSE`: MIT License for the project.
 
 ---
