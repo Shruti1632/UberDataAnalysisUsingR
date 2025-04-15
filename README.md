@@ -41,12 +41,7 @@ To run this project and replicate the analysis, follow the steps below:
    cd UberDataAnalysisUsingR
    ```
 
-2. **Install the required dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Open the Jupyter notebook** and start analyzing:
+2. **Open the Jupyter notebook** and start analyzing:
    ```bash
    jupyter notebook UberDataAnalysis.ipynb
    ```
